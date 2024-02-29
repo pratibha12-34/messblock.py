@@ -1,5 +1,5 @@
 It is a project of Negative Message Blocker 
-Which will help to remove messages from any social media and also any type of data it can remove .
+Which will help to remove messages from any social media platform and also any type of data it can remove .
 Main working with uniqueness is:-
  * It will work from server side.
  * We will add this feature directly in social media app and whenever client will update its app it will automatically install in client app  as a
