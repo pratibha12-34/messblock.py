@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratibha Agrawal</h1>
 <h3 align="center">A passionate Machine learning engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![Uploading 212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif…]()
+<img align="right" alt="coding" width="400" src="
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha12-34&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha12-34" /> </p>
