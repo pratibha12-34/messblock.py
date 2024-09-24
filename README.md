@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha12-34&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha12-34" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratibha12-34" alt="pratibha12-34" /></a> </p>
-
 - 🔭 I’m currently working on **Autism screening and child detection**
 
 - 🌱 I’m currently learning **deep learning, pre-trained models(LLm models,YOLOv7,Resnet50,VGGNET.etc)**
